@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4a812e39402353448a2fdcfb7fb9f4ab
+  - enabled: 1
+    path: Assets/Scenes/Scene 00 - Intro.unity
+    guid: 4f7593147f970474f92139a38d6a3530
+  - enabled: 1
+    path: Assets/Scenes/Scene 01 - Carthage.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scene 02 - Before the Battle.unity
+    guid: e6a88dfc1b8ab134a9ba421931a47b2d
+  - enabled: 1
+    path: Assets/Scenes/Scene 03 - Battle.unity
+    guid: a028091743b062a48a3b8370de975384
+  - enabled: 1
+    path: Assets/Scenes/Scene 04 - Killed in battle.unity
+    guid: 4126c94fab547e2458bef08f2a0bd708
+  - enabled: 1
+    path: Assets/Scenes/Scene 05 - Surrender.unity
+    guid: 7b665282dcdc47742b81ab94e1dd3d84
+  - enabled: 1
+    path: Assets/Scenes/Scene 06 - Escape.unity
+    guid: fe6da66a93ae1334b8d41a607f76e4f1
+  - enabled: 1
+    path: Assets/Scenes/Scene 07 - Mines.unity
+    guid: bf869a125982faf4a9011153df106bbb
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 2aaf31296ff331d4385c79178e54ded6
+  m_configObjects: {}
